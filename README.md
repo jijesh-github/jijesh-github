@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi, I'm Jijesh Raj 👋
+
+I'm a B.Tech student in Artificial Intelligence & Data Science with an interest in building practical AI and software solutions.
+
+I'm currently focused on:
+
+* Agentic AI
+* AI Automation
+* Full-Stack Development
+
+I enjoy learning new technologies, building real-world projects, and continuously improving my development skills.
 
 <!--
 **jijesh-github/jijesh-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
