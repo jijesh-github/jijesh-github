@@ -1,6 +1,8 @@
 # Hi, I'm Jijesh Raj 👋
 
-I'm a B.Tech student in Artificial Intelligence & Data Science with an interest in building practical AI and software solutions.
+# Who I Am ? 
+I'm simple.
+I Build Systems. Systems that automate task. Systems that work even while i sleep. Systems that powered by AI.
 
 I'm currently focused on:
 
