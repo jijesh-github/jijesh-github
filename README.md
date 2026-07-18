@@ -1,6 +1,6 @@
 # Hi, I'm Jijesh Raj 👋
 
-# Who I Am ? 
+## Who I Am ? 
 I'm simple.
 I Build Systems. Systems that automate task. Systems that work even while i sleep. Systems that powered by AI.
 
